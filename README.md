@@ -33,7 +33,7 @@ The custom CNN architecture achieved an outstanding classification performance o
 | F1-Score | 0.9913 |
 
 ### Figure 2: Learning Curves
-[learning_curves.png](https://github.com/LatiefDataVisionary/DeepRice-Classifier-CNN/blob/main/assets/learning_curves_DeepRice-Classifier-CNN.png)
+![learning_curves.png](https://github.com/LatiefDataVisionary/DeepRice-Classifier-CNN/blob/main/assets/learning_curves_DeepRice-Classifier-CNN.png)
 *Caption: Figure 2. Training and Validation accuracy and loss curves.*
 
 ## Deployment Formats
