@@ -17,8 +17,8 @@ The primary objective of this project is to develop an automated vision system c
 
 The model is trained on the Rice Image Dataset by Murat Koklu et al. The dataset is perfectly balanced with 15,000 images per class, ensuring that the model does not develop bias toward any specific variety.
 
-
-![Confusion_Matrix.png](https://github.com/LatiefDataVisionary/DeepRice-Classifier-CNN/blob/main/assets/Confusion%20Matrix%20-%20Klasifikasi%20Varietas%20Beras.png)**
+### Figure 1: Confusion Matrix
+![Confusion_Matrix.png](https://github.com/LatiefDataVisionary/DeepRice-Classifier-CNN/blob/main/assets/Confusion%20Matrix%20-%20Klasifikasi%20Varietas%20Beras.png)
 *Caption: Figure 1. Confusion Matrix showing the model performance on the test set.*
 
 ## Model Performance
@@ -32,7 +32,8 @@ The custom CNN architecture achieved an outstanding classification performance o
 | Recall | 0.9913 |
 | F1-Score | 0.9913 |
 
-**[Tempatkan Gambar 2 di sini: learning_curves.png]**
+### Figure 2: Learning Curves
+[learning_curves.png](https://github.com/LatiefDataVisionary/DeepRice-Classifier-CNN/blob/main/assets/learning_curves_DeepRice-Classifier-CNN.png)
 *Caption: Figure 2. Training and Validation accuracy and loss curves.*
 
 ## Deployment Formats
