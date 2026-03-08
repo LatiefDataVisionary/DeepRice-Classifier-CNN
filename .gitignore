@@ -1,0 +1,27 @@
+# 1. Berkas Sistem Operasi (Sangat Penting)
+.DS_Store
+Thumbs.db
+
+# 2. Lingkungan Virtual & Dependensi
+venv/
+env/
+.env
+__pycache__/
+*.pyc
+
+# 3. Dataset (Sangat Penting)
+# Jangan pernah mengunggah dataset mentah ke GitHub karena ukurannya terlalu besar
+/kaggle/input/
+/data/
+*.zip
+*.tar.gz
+
+# 4. Artefak Model & Checkpoints
+# Model yang sudah dilatih berukuran besar, simpan di server lokal atau cloud storage
+*.h5
+*.keras
+*.tflite
+/deployment_artifacts/
+
+# 5. Notebook Checkpoints
+.ipynb_checkpoints/
